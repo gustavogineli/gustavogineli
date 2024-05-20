@@ -1,16 +1,17 @@
-### Hi there 👋
+### <h1> Hi there, I'm Gustavo Gineli👋 </h1>
 
-<!--
-**gustavogineli/gustavogineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> A passionate front-eng developer student/ From Brazil 📍 </h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning HTML5, CSS3 and javaScript
+- 📧 Reach me via Email or connect on <a href= "https://www.linkedin.com/in/gustavo-g-1521a4287/">Linkedin</a>
+- My mission is to build seamless experiences that redefine possibilities.
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  <div>
+ <img height="180en" src="https://github-readme-stats.vercel.app/api?username=gustavogineli&show_icons=true&theme=radical">
+
+<img height="165en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogineli&layout=compact">   
+  </div>
+
+
